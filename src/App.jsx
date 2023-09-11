@@ -9,7 +9,10 @@ function App() {
     <>
      
      <Header></Header>
+     <div>
      <Blogs></Blogs>
+     
+     </div>
     </>
   )
 }
